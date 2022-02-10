@@ -1,0 +1,10 @@
+pyaudio
+speechRecognition
+pyttsx3
+Wikipedia
+Tkinter
+ecapture
+twilio
+pyjokes
+beautifulsoup4
+requests
